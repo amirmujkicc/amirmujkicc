@@ -1,8 +1,5 @@
 - 👋 Hi there, I’m Amir Mujkic, a FullStack Web Developer.
- <a href="https://www.linkedin.com/in/amirmujkicc/">
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
- </a>
-
+ 
 - Languages and technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -16,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
- 
- How to reach me: 
- 📧[amirmujkic96@hotmail.com](mailto:amirmujkic96@hotmail.com "e-mail")   
+ ---
+ How to reach me:   
+ 📧[mujkicc@gmai.com](mailto:mujkicc@gmail.com "e-mail")   
  [![Linkedin Badge](https://img.shields.io/badge/-amirmujkicc-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/amirmujkicc/))
