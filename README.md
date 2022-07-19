@@ -18,5 +18,5 @@
 </div>
  
  How to reach me: 
- 📧[amirmujkic96@hotmail.com](mailto:amirmujkic96@hotmail.com "e-mail")
- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+ 📧[amirmujkic96@hotmail.com](mailto:amirmujkic96@hotmail.com "e-mail")   
+ [![Linkedin Badge](https://img.shields.io/badge/-amirmujkicc-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/amirmujkicc/))
