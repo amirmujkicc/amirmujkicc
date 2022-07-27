@@ -16,6 +16,8 @@
 
 ---
 
+Feel free to contact me for checkign out my code
+
  How to reach me:   
  📧[mujkicc@gmail.com](mailto:mujkicc@gmail.com "e-mail")   
  
