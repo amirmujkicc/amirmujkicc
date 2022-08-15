@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Amir Mujkic, a FullStack Web Developer.
+- 👋 Hi there, I’m Amir Mujkic, a Full Stack Web Developer.
  
 - Languages and technologies:
 <div>
