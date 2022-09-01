@@ -16,7 +16,7 @@
 
 ---
 
-Feel free to contact me for checking out my code
+ You are welcome to get in touch with me to look at my code; I have over 20 apps to show you.
 
  How to reach me:   
  📧[mujkicc@gmail.com](mailto:mujkicc@gmail.com "e-mail")   
