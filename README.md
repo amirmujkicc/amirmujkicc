@@ -13,12 +13,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>   
-
----
-
- You are welcome to get in touch with me to look at my code; I have over 20 apps to show you.
-
- How to reach me:   
- 📧[mujkicc@gmail.com](mailto:mujkicc@gmail.com "e-mail")   
- 
- [![Linkedin Badge](https://img.shields.io/badge/-amirmujkicc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amirmujkicc/)
